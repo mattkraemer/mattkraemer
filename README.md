@@ -1,3 +1,5 @@
+![alt text](https://github.com/mattkraemer/mattkraemer/blob/main/src/g858.png?raw=true)
+
 # Hi, I'm Matthias!
 
 I'm a Web Developer focused on building frontends and constant learner. I started building Websites around 2003 using basic **HTML**, **CSS**, **PHP** and **MySQL** _(I didn't use tables for layouts - I swear)_.
